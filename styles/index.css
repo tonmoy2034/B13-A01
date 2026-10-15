@@ -15,7 +15,7 @@
 .btn {
   padding: 12.5px 16px;
   background-color: #469165;
-  color: #ffffff;
+  color:#FFFFFF;
   font-size: 16px;
   font-weight: 500;
   border: none;
@@ -24,7 +24,7 @@
 nav {
   display: flex;
   justify-content: space-between;
-  background-color: #ffffff;
+  background-color: #FFFFFF;
   padding: 16px 0;
   /* margin-bottom: 16px; */
   align-items: center;
@@ -94,16 +94,13 @@ nav .menu a {
 #hero .banner-text  h1 .green{
         color:#30B868;
 }
-#hero .banner-text  p{
+#hero .banner-text p{
     font-size: 18px;
     line-height: 24px;
     color:#FFFFFF;
     max-width: 1360px;
-    width:55%; 
-    /* text-align: center; */
-    margin: 0 auto 32px ;
-    /* margin:0 200px 32px; */
-    /* padding:0 180px; */
+    width:55%;
+    margin : 0 auto 32px;
 }
 .banner-btn button{
     margin-right: 16px;
