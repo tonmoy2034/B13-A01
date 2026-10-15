@@ -98,11 +98,12 @@ nav .menu a {
     font-size: 18px;
     line-height: 24px;
     color:#FFFFFF;
-    max-height: 1360px;
-    width:85%;
+    max-width: 1360px;
+    width:55%; 
     /* text-align: center; */
-    margin:0 auto 16px;
-    padding:0 180px;
+    margin: 0 auto 32px ;
+    /* margin:0 200px 32px; */
+    /* padding:0 180px; */
 }
 .banner-btn button{
     margin-right: 16px;
@@ -110,7 +111,7 @@ nav .menu a {
 .special-btn{
   padding: 12.5px 16px;
   color: #ffffff;
-  font-size: 16;
+  font-size: 16px;
   font-weight: 500;
   border: 1px solid white;
   border-radius: 4px;
